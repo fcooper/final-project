@@ -1,0 +1,6 @@
+http://www.saltycrane.com/blog/2008/01/how-to-install-pyqt4-on-ubuntu-linux/
+http://stackoverflow.com/questions/28282434/how-to-combine-opencv-with-pyqt-to-create-a-simple-gui
+http://stackoverflow.com/questions/19825650/python-pyqt4-how-to-detect-the-mouse-click-position-anywhere-in-the-window
+http://zetcode.com/gui/pyqt4/menusandtoolbars/
+http://stackoverflow.com/questions/3196353/pyqt4-file-select-widget
+http://docs.wand-py.org/en/0.4.1/guide/draw.html
